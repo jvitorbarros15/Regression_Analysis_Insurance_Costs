@@ -69,3 +69,6 @@ Each model was evaluated using the following metrics:
 
 > ⚠️ Requires Python 3.x and the following libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`.
 
+## 👨‍💻 Author
+João Vitor Barros da Silva
+Senior Computer Science Student – Penn State
